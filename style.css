@@ -8,3 +8,22 @@ body {
 background-color: green;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.form-section {
+      margin: 20px auto;
+    width: 90%;
+    max-width: 500px;
+    background-color: #ffffff;
+}
+
+button {
+  background-color: lightgreen;
+  color: white;
+
+}
+
+footer {
+  color: white;
+  margin-top: 30px;
+}
+
